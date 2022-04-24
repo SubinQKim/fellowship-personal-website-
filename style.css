@@ -1,0 +1,27 @@
+h1 {
+    font-size: 5em;
+}
+
+#profile_pic {
+    height: 200px
+}
+
+.social-icon {
+    height: 50px
+}
+
+body {
+    background-color: seagreen;
+}
+
+div {
+    background-color: darkolivegreen;
+}
+
+body {
+    color: burlywood;
+}
+
+a {
+    color: azure;
+}
